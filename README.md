@@ -1,5 +1,6 @@
 # PowerShellProfile
 Configures users powershell profile
 
-// Installation
-Save profile.ps1 as Microsoft.PowerShell_profile.ps1 and store in %USERPROFILE%\Documents\WindowsPowerShell
+<b>// Installation</b> <br>
+Rename profile.ps1 as Microsoft.PowerShell_profile.ps1 and replace <br>
+existing file in the %USERPROFILE%\Documents\WindowsPowerShell directory.
